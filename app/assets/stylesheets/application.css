@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+main {
+  min-height: calc(100vh - 120px);
+  overflow: hidden;
+}
+
+header {
+  height: 60px;
+}
+
+footer {
+  height: 60px;
+}
